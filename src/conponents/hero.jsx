@@ -5,7 +5,7 @@ import {
   BsInstagram,
   BsPinterest,
 } from "react-icons/bs";
-import Heropic from "../assets/k.jpg";
+import Heropic from "../assets/King.jpg";
 
 const hero = () => {
   return (
